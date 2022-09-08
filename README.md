@@ -2,7 +2,7 @@
 
 ### I'm a Frontend Dev
 
-#### 👨🏻‍💻 About Me
+#### :woman_technologist: About Me
 
 - :computer: I’m currently working with:
 
