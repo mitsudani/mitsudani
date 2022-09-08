@@ -10,6 +10,10 @@
 - :books: I’m currently learning:
 
   ![Cypress](https://img.shields.io/badge/-Cypress-00a138?logo=Cypress)
+  
+- :nail_care: I'm building my first and own React App!
+
+  It's a nailart/nail polish organizer, you can see my progress in this repository: <a href="https://github.com/mitsudani/tsume-frontend"><img src="https://img.shields.io/badge/-GitHub-grey?logo=GitHub"/></a>
 
 - :purple_heart: Interests: Anime, manga, nailart, videogames, cats, playing the violin, books.
 
@@ -17,9 +21,7 @@
 
   I post some IT notes once in a while in my Instagram account: <a href="https://instagram.com/mitsudani"><img src="https://img.shields.io/badge/-@mitsudani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
-- :nail_care: I'm building my first and own React App!
 
-  It's a nailart/nail polish organizer, you can see my progress in this repository: <a href="https://github.com/mitsudani/tsume-frontend"><img src="https://img.shields.io/badge/-GitHub-grey?logo=GitHub"/></a>
 
 
 
