@@ -11,7 +11,7 @@
   
 - :books: I’m currently learning: Automation testing, Cypress.
 
-- :purple_heart: Interests: Anime, manga, nailart, videogames, cats.
+- :purple_heart: Interests: Anime, manga, nailart, videogames, cats, playing the violin, books.
 
 - :pencil: I'm a stationery addict! I love making pretty/aesthetic notes.
 
