@@ -9,7 +9,7 @@
   ![JavaScript](https://badges.aleen42.com/src/javascript.svg) ![TypeScript](https://badges.aleen42.com/src/typescript.svg) ![React](https://badges.aleen42.com/src/react.svg)
   ![VisualStudio](https://badges.aleen42.com/src/visual_studio_code.svg) ![Jira](https://badgen.net/badge/icon/Jira/purple?icon=jira&label) 
   
-- :books: I’m currently learning more and stydying: Automation testing, Cypress.
+- :books: I’m currently learning: Automation testing, Cypress.
 
 - :purple_heart: Interests: Anime, manga, nailart, videogames, cats.
 
