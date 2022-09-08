@@ -1,8 +1,8 @@
 ### Hi, I'm Daniela! 👋
 
-### I'm a Frontend Dev
+### ∿ I'm a Frontend Dev ∿
 
-#### :woman_technologist: About Me
+### :woman_technologist: About Me
 
 - :computer: I’m currently working with:
 
