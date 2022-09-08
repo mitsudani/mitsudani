@@ -6,7 +6,7 @@
 
 - :computer: I’m currently working with:
 
-  - ![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label)
+  - ![TypeScript](https://badgen.net/badge/icon/typescript?icon=typescript&label) ![Jira](https://badgen.net/badge/icon/jira?icon=jira&label)
   
 - :books: I’m currently learning more and stydying:
 
