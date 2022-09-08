@@ -6,10 +6,12 @@
 
 - :computer: I’m currently working with:
 
-  ![JavaScript](https://badges.aleen42.com/src/javascript.svg) ![TypeScript](https://badges.aleen42.com/src/typescript.svg) ![React](https://badges.aleen42.com/src/react.svg)
-  ![VisualStudio](https://badges.aleen42.com/src/visual_studio_code.svg) ![Jira](https://badgen.net/badge/icon/Jira/purple?icon=jira&label) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white)
+  ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software) 
   
-- :books: I’m currently learning: Automation testing, Cypress.
+- :books: I’m currently learning:
+
+  ![Cypress](https://img.shields.io/badge/-Cypress-00a138?logo=Cypress)
 
 - :purple_heart: Interests: Anime, manga, nailart, videogames, cats, playing the violin, books.
 
@@ -19,7 +21,7 @@
 
 - :nail_care: I'm building my first and own React App!
 
-  It's a nailart/nail polish organizer, you can see my progress in this repository: <a href="https://github.com/mitsudani/tsume-frontend"><img src="https://badgen.net/badge/icon/github?icon=github&label"/></a>
+  It's a nailart/nail polish organizer, you can see my progress in this repository: <a href="https://github.com/mitsudani/tsume-frontend"><img src="https://img.shields.io/badge/-GitHub-grey?logo=GitHub"/></a>
 
 
 
