@@ -15,7 +15,7 @@
 
 - :pencil: I'm a stationery addict! I love making pretty/aesthetic notes.
 
-  I post some IT notes once in a while in my Instagram account: <a href="https://instagram.com/mitsudani" target="_blank"><img src="https://img.shields.io/badge/-@mitsudani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  I post some IT notes once in a while in my Instagram account: <a href="https://instagram.com/mitsudani"><img src="https://img.shields.io/badge/-@mitsudani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 - :nail_care: I'm building my first and own React App!
 
