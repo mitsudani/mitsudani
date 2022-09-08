@@ -7,7 +7,7 @@
 - :computer: I’m currently working with:
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=black) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white)
-  ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software) 
+  ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=Confluence)
   
 - :books: I’m currently learning:
 
