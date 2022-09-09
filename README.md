@@ -9,7 +9,7 @@
   
 - :books: I’m currently learning:
 
-  ![Cypress](https://img.shields.io/badge/-Cypress-00a138?logo=Cypress)
+  ![Cypress](https://img.shields.io/badge/-Cypress-00a138?logo=Cypress) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white)
   
 - :nail_care: I'm building my first and own React App!
 
@@ -19,7 +19,7 @@
 
 - :pencil: I'm a stationery addict! I love making pretty/aesthetic notes.
 
-  I post some IT notes once in a while in my Instagram account: <a href="https://instagram.com/mitsudani"><img src="https://img.shields.io/badge/-@mitsudani-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  I post some IT notes once in a while in my Instagram account: <a href="https://instagram.com/mitsudani"><img src="https://img.shields.io/badge/-@mitsudani-blueviolet?style=flat&logo=Instagram&logoColor=white"/></a>
 
 
 
