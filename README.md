@@ -4,12 +4,12 @@
 
 - :computer: I’m currently working with:
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white) ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=React&logoColor=black) ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white)
-  ![VisualStudio](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software) ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?logo=Confluence)
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/></a> <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/></a> <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=React&logoColor=black"/></a> <a href="https://sass-lang.com/"><img src="https://img.shields.io/badge/-Sass-CC6699?logo=Sass&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual-Studio-Code"/></a> <a href="https://www.atlassian.com/es/software/jira"><img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software"/></a> <a href="https://www.atlassian.com/es/software/confluence"><img src="https://img.shields.io/badge/-Confluence-172B4D?logo=Confluence"/></a>
   
 - :books: I’m currently learning:
 
-  ![Cypress](https://img.shields.io/badge/-Cypress-00a138?logo=Cypress) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white)
+  <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-00a138?logo=Cypress"/></a> <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white"/></a>
   
 - :nail_care: I'm building my first and own React App!
 
