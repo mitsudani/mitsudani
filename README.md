@@ -9,7 +9,7 @@
   
 - :books: I’m currently learning:
 
-  <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-00a138?logo=Cypress"/></a> <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white"/></a>
+  <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=Playwright&logoColor=white"/></a> <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress"/></a> <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white"/></a>
   
 - :nail_care: I'm building my first and own React App!
 
