@@ -11,9 +11,9 @@
 
   <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=Playwright&logoColor=white"/></a> <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress"/></a> <a href="https://storybook.js.org/"><img src="https://img.shields.io/badge/-Storybook-FF4785?logo=Storybook&logoColor=white"/></a>
   
-- :nail_care: I'm building my first and own React App!
+- I'm building my first and own React App!
 
-  It's a nailart/nail polish organizer, you can see my progress in this repository: <a href="https://github.com/mitsudani/tsume-frontend"><img src="https://img.shields.io/badge/-GitHub-grey?logo=GitHub"/></a>
+  :nail_care: It's a nailart/nail polish organizer, you can see my progress in this repository: <a href="https://github.com/mitsudani/tsume-frontend"><img src="https://img.shields.io/badge/-GitHub-grey?logo=GitHub"/></a>
 
 - :purple_heart: Interests: Anime, manga, nailart, videogames, cats, playing the violin, books.
 
