@@ -1,4 +1,4 @@
-### Hi, I'm Daniela! 👋 ∿ I'm a Frontend Dev ∿
+### Hi, I'm Daniela! 👋 ∿ I'm a Frontend Dev & QA ∿
 
 ### :woman_technologist: About Me
 
