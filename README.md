@@ -10,7 +10,7 @@
 
   <a href="https://playwright.dev/"><img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=Playwright&logoColor=white"/></a> <a href="https://www.cypress.io/"><img src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress"/></a> <a href="https://storybook.js.org/"> <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white"/></a>
   
-- I have also experiencia as a Frontend Dev and now I'm building my first and own React App!
+- I have also experience as a Frontend Dev and now I'm building my first and own React App!
 
   💅 It's a nailart/nail polish organizer and I'm using:
 
