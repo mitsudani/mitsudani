@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working with:
 
-  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white"/></a> <a href="https://cucumber.io/"><img src="https://img.shields.io/badge/-Cucumber-23D96C?logo=Cucumber&logoColor=black"/></a> <a href="https://junit.org/junit5/"><img src="https://img.shields.io/badge/-JUnit5-25A162?logo=Junit5&logoColor=white"/></a> <a href="https://www.atlassian.com/es/software/jira"><img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software"/></a> <a href="https://www.qmetry.com/"><img src="https://img.shields.io/badge/-QMetry-003FB3?style=flat"/></a>
+  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/-Selenium-43B02A?logo=Selenium&logoColor=white"/></a> <a href="https://cucumber.io/"><img src="https://img.shields.io/badge/-Cucumber-23D96C?logo=Cucumber&logoColor=black"/></a> <a href="https://junit.org/junit5/"><img src="https://img.shields.io/badge/-JUnit5-25A162?logo=Junit5&logoColor=white"/></a> <a href="https://spring.io/"><img src="https://img.shields.io/badge/-Spring-6DB33F?logo=Spring&logoColor=white"/></a> <a href="https://www.atlassian.com/es/software/jira"><img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira-Software"/></a> <a href="https://www.qmetry.com/"><img src="https://img.shields.io/badge/-QMetry-003FB3?style=flat"/></a>
 
 - 🤖 I can also automate tests with:
 
